@@ -7,3 +7,5 @@ Here's the complete list of details we like to see in a job post:
 * Does your company provide Visa sponsorship?
 * Salary range for this role: this is now a legal requirement for job posting in parts of the US.
 * Are you OK being contacted by contracting agencies? 
+
+test
